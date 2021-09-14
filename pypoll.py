@@ -87,7 +87,7 @@ with open("analysis/election_analysis.txt", "w") as txt_file:
     txt_file.write(election_results)
 
     # 6a: Write a for loop to get the county from the county dictionary.
-    For county in county_votes:
+    for county in county_votes:
         # 6b: Retrieve the county vote count.
         votes = county_votes[county]
         # 6c: Calculate the percentage of votes for the county.
