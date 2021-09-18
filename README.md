@@ -16,6 +16,8 @@ Software: Python 3.8.0, Visual Studio Code 1.40.2
 Summary
 The analysis of the election shows:
 
+![2021-09-16](https://user-images.githubusercontent.com/87731897/133869447-15e90244-4597-4642-88c6-77a4a830bf75.png)
+
 Total Votes: 369,711
 
 Charles Casper Stockham: 23.0% (85,213)
