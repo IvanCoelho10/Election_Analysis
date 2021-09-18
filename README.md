@@ -20,6 +20,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 Data Source: election_results.csv
 Software: Python 3.9.7, Visual Studio Code
 Summary
+
+![2021-09-18](https://user-images.githubusercontent.com/87731897/133905368-5d41bcd2-1f3c-416e-a007-96af18e1420b.png)
+
 The analysis of the election shows:
 
 Total Votes: 369,711
